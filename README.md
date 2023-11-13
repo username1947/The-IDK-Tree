@@ -1,7 +1,5 @@
-# The-Modding-Tree
+# The-IDK-Tree
 
-An incremental game engine based on The Prestige Tree. It still requires programming knowledge, but it's mostly pretty easy things and copy/pasting.
+An incremental game made with the Prestige Tree engine.
 
-[Look here for a tutorial on getting started with modding with TMT](docs/tutorials/getting-started.md)
-
-You can look in the [documentation](docs/!general-info.md) for more information on how it all works, or look at the code in layers.js to see what it all looks like.
+idk how long this will last but im just doing it whenever i am bored
